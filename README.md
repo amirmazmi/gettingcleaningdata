@@ -1,5 +1,5 @@
 
-=====================================================================================================================
+====================================================================
 This repo is a project submission for the subject Getting and Cleaning Data under the Coursera Data Science Specialization.
 by: Amir Azmi
 email: amirmazmi@gmail.com
@@ -7,11 +7,12 @@ email: amirmazmi@gmail.com
 
 March 2017
 
-=====================================================================================================================
+====================================================================
 
 
 The data is taken from the UCI Machine Learning Repository
 info: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
@@ -38,7 +39,7 @@ Extract of the Readme.txt from the original dataset:
 
 
 	
-=====================================================================================================================
+====================================================================
 	
 
 The repo contains the following files:
@@ -54,7 +55,7 @@ The repo contains the following files:
 
 
 
-=====================================================================================================================
+====================================================================
 
 
 The script run_analysis.R does the following:
